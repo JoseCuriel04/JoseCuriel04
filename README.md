@@ -20,7 +20,7 @@
 <h2>🛠️ Tecnologías y herramientas</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,php,html,css,js,python,c,cpp,git,github,mysql,firebase&perline=10" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,php,html,css,js,python,git,github,mysql&perline=10" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 - ✅ Curso de **Desarrollo Web Full Stack** – Udemy (2024)
 - ✅ Certificación en **Fundamentos de Python** – Cisco Networking Academy
 - ✅ Taller de **Ciberseguridad Básica** – Universidad Politécnica de Tulancingo
-- ✅ Curso de **Desarrollo de Apps con Flutter** – Platzi
+- ✅ Curso de **Bases de Datos MySQL** – Plataforma UPT
 
 ---
 
