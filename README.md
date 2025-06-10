@@ -1,96 +1,127 @@
-```markdown
-<h1 align="center">¡Hola mundo! 👋 Soy Jose Luis Curiel López</h1>
-<h3 align="center">🧠 Estudiante de Ingeniería en Sistemas Computacionales | 👨‍💻 Desarrollador en crecimiento | 🎮 Fan de la música y la tecnología</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F700&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Programador+creativo+y+curioso;Fan+de+Spotify+y+los+memes;Bienvenido+a+mi+universo+digital!" alt="Typing SVG" />
-</p>
-
----
-
-### 🚀 Sobre mí
-
-- 💡 Me apasiona crear soluciones digitales que simplifiquen la vida
-- 👨‍🏫 Actualmente aprendiendo desarrollo móvil y web avanzado
-- 🔭 Me encanta trabajar con **bots, juegos y plataformas educativas**
-- 🧠 Siempre curioso y en modo aprendizaje	
-- 🎧 Trabajo mejor con buena música de fondo
-
----
-
-### 🛠️ Lenguajes y tecnologías que uso
+<h1 align="center">Hola 👋  soy Orlando / unsimpleDev ✨ </h1> 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,androidstudio,vscode,visualstudio" />
-</p>
-
----
-
-### ⚙️ Herramientas y plataformas
+  <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
+<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
+<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
+<br>
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,linux" />
+🎓 INGENIERO EN INFORMÁTICA
+
+🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+
+💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+
+📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+
+📫 Contacto: **unsimpledev@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+  </a>
 </p>
+<br>
+<!-------------------------->
+<div id="proyectos">
+<h2 >Algunos proyectos👨🏻‍💻</h2>
 
----
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+<td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+  
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
 
-### 🎯 Actualmente trabajando en
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+  
+</tr>
+</table>
+  </div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
 
-- Un **bot para Discord** integrado con **Spotify API** 🎵
-- Una **plataforma escolar** llamada **EduSphere**, desarrollada para mejorar la comunicación entre docentes y padres 📚
-- Proyectos académicos usando **PHP, HTML, CSS, JS y Python** 🧑‍💻
 
----
-
-### 📫 ¿Dónde encontrarme?
-
-[![Discord](https://img.shields.io/badge/Spartan516-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Spartan516)
-[![Instagram](https://img.shields.io/badge/@curiel_1004-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/curiel_1004/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/d6neljtusibgpuc1mdmxgeikp?si=005f14a1f201428b)
-
----
-
-### 🧪 Proyecto destacado: EduSphere
-
-[![Proyecto](https://img.shields.io/badge/EduSphere-Plataforma%20Educativa-blueviolet?style=for-the-badge&logo=googleclassroom&logoColor=white)](#)
-
-> Plataforma escolar desarrollada con HTML, CSS, JS, PHP y Python, enfocada en mejorar la gestión de asistencia, calificaciones y comunicación entre docentes, estudiantes y padres.
-
----
-
-### 🔥 Estadísticas
-
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCuriel04&show_icons=true&theme=tokyonight&locale=es"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCuriel04&layout=compact&theme=tokyonight&locale=es"/>
-</p>
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
 
----
+<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
+  <br></br> -->
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+</td>
 
-### 🤓 Curiosidades sobre mí
+<td width="40%" align="center">
 
-- 💻 Me gusta programar de noche, cuando todos duermen
-- 🌌 Soy fan del espacio, la inteligencia artificial y las interfaces oscuras
-- 🧩 Me gusta resolver rompecabezas... y bugs
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
----
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
-### 🧠 Skills principales
+<!--- trophy (start) -->
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,java,androidstudio,vscode,visualstudio)](https://skillicons.dev)
 
----
-
-### 🧪 Otros botones cool
-
-[![Portfolio](https://img.shields.io/badge/Portafolio-en%20proceso-informational?style=for-the-badge&logo=notion)](#)
-[![YouTube](https://img.shields.io/badge/Youtube-Coming%20Soon-red?style=for-the-badge&logo=youtube&logoColor=white)](#)
-[![Blog](https://img.shields.io/badge/Blog-Desarrollo-orange?style=for-the-badge&logo=hashnode)](#)
-
----
-
-<h3 align="center">¡Gracias por visitar mi perfil! 💚</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
-</p>
-```
+</p>        
+<!--- stats (end) -->
