@@ -41,29 +41,20 @@
 
 ---
 
-<h2>👨‍💻 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spartan516&theme=dark&hide_border=false" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spartan516&theme=dark&hide_border=false&langs_count=8&layout=compact" />
-</p>
-
----
-
-<h2>🏆 Trofeos</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Spartan516&theme=radical&row=1&column=6" />
-</p>
-
----
-
 <h2>✨ Extras</h2>
 
 - 📉 Participación en proyectos escolares y personales
 - 🌟 En constante mejora de habilidades y trabajo en equipo
 - 🔧 Apasionado por el desarrollo en entornos como Android Studio y Visual Studio
+
+---
+
+<h2>🎓 Reconocimientos y cursos</h2>
+
+- ✅ Curso de **Desarrollo Web Full Stack** – Udemy (2024)
+- ✅ Certificación en **Fundamentos de Python** – Cisco Networking Academy
+- ✅ Taller de **Ciberseguridad Básica** – Universidad Politécnica de Tulancingo
+- ✅ Curso de **Desarrollo de Apps con Flutter** – Platzi
 
 ---
 
