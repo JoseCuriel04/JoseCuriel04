@@ -13,7 +13,7 @@
 - 💡 Me apasiona crear soluciones digitales que simplifiquen la vida
 - 👨‍🏫 Actualmente aprendiendo desarrollo móvil y web avanzado
 - 🔭 Me encanta trabajar con **bots, juegos y plataformas educativas**
-- 🧠 Siempre curioso y en modo aprendizaje
+- 🧠 Siempre curioso y en modo aprendizaje	
 - 🎧 Trabajo mejor con buena música de fondo
 
 ---
@@ -37,7 +37,7 @@
 ### 🎯 Actualmente trabajando en
 
 - Un **bot para Discord** integrado con **Spotify API** 🎵
-- Una **plataforma escolar** para mejorar la comunicación entre docentes y padres 📚
+- Una **plataforma escolar** llamada **EduSphere**, desarrollada para mejorar la comunicación entre docentes y padres 📚
 - Proyectos académicos usando **PHP, HTML, CSS, JS y Python** 🧑‍💻
 
 ---
@@ -47,6 +47,14 @@
 [![Discord](https://img.shields.io/badge/Spartan516-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Spartan516)
 [![Instagram](https://img.shields.io/badge/@curiel_1004-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/curiel_1004/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/d6neljtusibgpuc1mdmxgeikp?si=005f14a1f201428b)
+
+---
+
+### 🧪 Proyecto destacado: EduSphere
+
+[![Proyecto](https://img.shields.io/badge/EduSphere-Plataforma%20Educativa-blueviolet?style=for-the-badge&logo=googleclassroom&logoColor=white)](#)
+
+> Plataforma escolar desarrollada con HTML, CSS, JS, PHP y Python, enfocada en mejorar la gestión de asistencia, calificaciones y comunicación entre docentes, estudiantes y padres.
 
 ---
 
@@ -67,11 +75,17 @@
 
 ---
 
-### 🧪 Proyectos destacados (más por venir...)
+### 🧠 Skills principales
 
-- ✅ Plataforma educativa para primaria
-- ✅ Juego de memorama interactivo en HTML/CSS/JS
-- ✅ Bot con comandos personalizados en Discord
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,java,androidstudio,vscode,visualstudio)](https://skillicons.dev)
+
+---
+
+### 🧪 Otros botones cool
+
+[![Portfolio](https://img.shields.io/badge/Portafolio-en%20proceso-informational?style=for-the-badge&logo=notion)](#)
+[![YouTube](https://img.shields.io/badge/Youtube-Coming%20Soon-red?style=for-the-badge&logo=youtube&logoColor=white)](#)
+[![Blog](https://img.shields.io/badge/Blog-Desarrollo-orange?style=for-the-badge&logo=hashnode)](#)
 
 ---
 
@@ -80,5 +94,3 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
 </p>
 ```
-
-Este `README.md` está listo para pegarse en tu perfil de GitHub (repositorio `JoseCuriel04/JoseCuriel04`). Tiene una mezcla de profesionalismo, creatividad y estilo único. ¿Quieres que incluya animaciones, links a tus proyectos o algún detalle más? 😄
