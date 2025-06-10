@@ -50,8 +50,7 @@
 <h2>📜 Reconocimientos & Certificaciones</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/🧠_Curso_Desarrollo_Web_Full_Stack_(Udemy_2024)-282c34?style=for-the-badge&logo=udemy&logoColor=ff4c60" />
-  <br/>
+  
   <img src="https://img.shields.io/badge/🐍_Fundamentos_de_Python_(Cisco_NetAcad)-282c34?style=for-the-badge&logo=python&logoColor=yellow" />
   <br/>
   <img src="https://img.shields.io/badge/🔐_Ciberseguridad_Básica_(UPT)-282c34?style=for-the-badge&logo=hackthebox&logoColor=green" />
