@@ -26,8 +26,13 @@
 <h2>🧰 Tecnologías & Herramientas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode,visualstudio,androidstudio&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode,visualstudio,androidstudio,arduino&perline=10" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Thonny-Python_IDE-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-WiFi_Module-blue?style=for-the-badge&logo=espressif&logoColor=white" />
+</p>
+
 
 ---
 
