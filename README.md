@@ -10,6 +10,12 @@
   <a href="https://discord.com/users/Spartan516" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" />
   </a>
+  <a href="mailto:joselcl04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100011497963102" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a>
 </p>
 
 <hr style="border: 2px dashed #00FFC6;"/>
