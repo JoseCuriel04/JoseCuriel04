@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hola, soy <span style="color:#00FFC6;">Jose Luis Curiel / Spartan516</span> ✨</h1>
-
 <p align="center">
   <a href="https://www.instagram.com/curiel_1004/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
@@ -124,6 +123,10 @@
   <a href="https://github.com/JoseCuriel04/Cursos/blob/main/CCNAv7%20Introduction%20to%20Networks.pdf" target="_blank">
     <img src="https://img.shields.io/badge/🌐_CCNAv7:_Introduction_to_Networks-282c34?style=for-the-badge&logo=cisco&logoColor=blue" />
   </a>
+  <br/>
+  <a href="https://github.com/JoseCuriel04/Cursos/blob/main/Fortinet%20Certified%20Fundamentals%20in%20Cybersecurity.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/🔐_Fortinet_Certified_Fundamentals_in_Cybersecurity-282c34?style=for-the-badge&logo=fortinet&logoColor=red" />
+  </a>
 </p>
 
 ### GitHub Stats
@@ -132,7 +135,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCuriel04&layout=compact&theme=dracula" alt="Most Used Languages" />
 </p>
-
 <p align="center">
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love">
 </p>
