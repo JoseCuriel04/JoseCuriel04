@@ -86,6 +86,15 @@
   </tr>
 </table>
 
+### 📄 Mi CV
+Puedes descargar mi currículum aquí:
+<p align="center">
+  <a href="https://github.com/JoseCuriel04/Cursos/raw/main/my-cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Descargar_CV-%2300FFC6.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV" />
+  </a>
+</p>
+
+
 ### 📜 Reconocimientos & Certificaciones
 <p>
   <a href="https://github.com/JoseCuriel04/Cursos/blob/main/Administrador%20de%20bases%20de%20datos.pdf" target="_blank">
