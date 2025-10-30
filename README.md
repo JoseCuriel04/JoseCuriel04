@@ -20,7 +20,7 @@
 - 🎓 Estudiante de **Ingeniería en Sistemas Computacionales**
 - 💡 Apasionado por la **tecnología, desarrollo de software y automatización**
 - 🌱 Siempre aprendiendo nuevas herramientas y lenguajes
-- 🌐 Creador de **EduSphere**, una plataforma educativa para gestión escolar
+- 🌐 Colaborador de **EduSphere**, una plataforma educativa para gestión escolar
 
 ### 🛠️ Tecnologías & Herramientas
 <p align="center">
