@@ -1,13 +1,8 @@
-<h1 align="center">👋 Hola, soy <span style="color:#00FFC6;">Jose Luis Curiel / Spartan516</span> ✨</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#00FFC6;">Jose Curiel</span> ✨</h1>
+
 <p align="center">
   <a href="https://www.instagram.com/curiel_1004/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/user/d6neljtusibgpuc1mdmxgeikp?si=005f14a1f201428b" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=Spotify&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/Spartan516" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" />
   </a>
   <a href="mailto:joselcl04@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
@@ -17,12 +12,23 @@
   </a>
 </p>
 
-- 🎓 Estudiante de **Ingeniería en Sistemas Computacionales**
-- 💡 Apasionado por la **tecnología, desarrollo de software y automatización**
-- 🌱 Siempre aprendiendo nuevas herramientas y lenguajes
-- 🌐 Colaborador de **EduSphere**, una plataforma educativa para gestión escolar
+- 🎓 Student of **Computer Systems Engineering**
+- 💡 Passionate about **technology, software development, and automation**
+- 🌱 Always learning new tools and programming languages
+- 🌐 Contributor to **EduSphere**, an educational platform for school management
 
-### 🛠️ Tecnologías & Herramientas
+---
+
+### 🌍 My Portfolio Website
+<p align="center">
+  <a href="https://porttfoliojose-io.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-%2300FFC6.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Technologies & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode,visualstudio,androidstudio,arduino,flutter,dart,idea,django,java&perline=10" />
 </p>
@@ -43,12 +49,14 @@
   <img src="https://img.shields.io/badge/Moodle-%23FF6B02.svg?style=for-the-badge&logo=moodle&logoColor=white" />
 </p>
 
-### 💼 Proyectos Destacados
+---
+
+### 💼 Featured Projects
 <table align="center">
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/JoseCuriel04/EduSphere" target="_blank">
-        <img src="https://img.shields.io/badge/EduSphere-Plataforma_Educativa-blueviolet?style=for-the-badge&logo=codepen&logoColor=white"/>
+        <img src="https://img.shields.io/badge/EduSphere-Educational_Platform-blueviolet?style=for-the-badge&logo=codepen&logoColor=white"/>
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -58,7 +66,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/JoseCuriel04/SafeAlert" target="_blank">
-        <img src="https://img.shields.io/badge/SafeAlert-Aplicación_de_Emergencia-red?style=for-the-badge&logo=android&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SafeAlert-Emergency_Application-red?style=for-the-badge&logo=android&logoColor=white"/>
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Android_Studio-%233DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -66,7 +74,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/JoseCuriel04/Penitenciario" target="_blank">
-        <img src="https://img.shields.io/badge/Penitenciario-Sistema_Penitenciario-blue?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Penitenciario-Prison_Management_System-blue?style=for-the-badge&logo=python&logoColor=white"/>
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -77,7 +85,7 @@
   <tr>
     <td align="center" width="100%" colspan="3">
       <a href="http://200.79.182.105/moodle/" target="_blank">
-        <img src="https://img.shields.io/badge/Moodle-Plataforma_Educativa_orange?style=for-the-badge&logo=moodle&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Moodle-Educational_Platform-orange?style=for-the-badge&logo=moodle&logoColor=white"/>
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -86,31 +94,34 @@
   </tr>
 </table>
 
-### 📄 Mi CV
-Puedes descargar mi currículum aquí:
+---
+
+### 📄 My Resume
+You can download my CV here:
 <p align="center">
   <a href="https://github.com/JoseCuriel04/Cursos/raw/main/my-cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Descargar_CV-%2300FFC6.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV" />
+    <img src="https://img.shields.io/badge/Download_CV-%2300FFC6.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV" />
   </a>
 </p>
 
+---
 
-### 📜 Reconocimientos & Certificaciones
+### 📜 Awards & Certifications
 <p>
   <a href="https://github.com/JoseCuriel04/Cursos/blob/main/Administrador%20de%20bases%20de%20datos.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📚_Administrador_de_Bases_de_Datos-282c34?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/📚_Database_Administrator-282c34?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>
   <br/>
   <a href="https://github.com/JoseCuriel04/Cursos/blob/main/Cómputo%20básico.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Cómputo_Básico-282c34?style=for-the-badge&logo=windows&logoColor=blue" />
+    <img src="https://img.shields.io/badge/💻_Basic_Computing-282c34?style=for-the-badge&logo=windows&logoColor=blue" />
   </a>
   <br/>
   <a href="https://github.com/JoseCuriel04/Cursos/blob/main/Desarrollador%20Front-end.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Desarrollador_Front--end-282c34?style=for-the-badge&logo=javascript&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/🌐_Front--End_Developer-282c34?style=for-the-badge&logo=javascript&logoColor=yellow" />
   </a>
   <br/>
   <a href="https://github.com/JoseCuriel04/Cursos/blob/main/Introducción%20a%20la%20programación.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/👨‍💻_Introducción_a_la_Programación-282c34?style=for-the-badge&logo=codepen&logoColor=white" />
+    <img src="https://img.shields.io/badge/👨‍💻_Introduction_to_Programming-282c34?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
   <br/>
   <a href="https://github.com/JoseCuriel04/Cursos/blob/main/Python%20101%20for%20Data%20Science.pdf" target="_blank">
@@ -118,7 +129,7 @@ Puedes descargar mi currículum aquí:
   </a>
   <br/>
   <a href="https://github.com/JoseCuriel04/Cursos/blob/main/Fundamentos%20de%20Python%201.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/🐍_Fundamentos_de_Python_1_(Cisco_NetAcad)-282c34?style=for-the-badge&logo=cisco&logoColor=blue" />
+    <img src="https://img.shields.io/badge/🐍_Python_Fundamentals_1_(Cisco_NetAcad)-282c34?style=for-the-badge&logo=cisco&logoColor=blue" />
   </a>
   <br/>
   <a href="https://github.com/JoseCuriel04/Cursos/blob/main/CCNAv7%20Enterprise%20Networking%2C%20Security%2C%20and%20Automation.pdf" target="_blank">
@@ -138,7 +149,9 @@ Puedes descargar mi currículum aquí:
   </a>
 </p>
 
-### GitHub Stats
+---
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JoseCuriel04&theme=dracula" alt="GitHub Streak" />
   <br/>
@@ -148,12 +161,15 @@ Puedes descargar mi currículum aquí:
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love">
 </p>
 
+---
+
 <h2>💬 Extras</h2>
-- 🤝 Trabajo en equipo y colaboración
-- 📈 Participación activa en proyectos escolares y personales
-- 🛠️ Enfoque en **proyectos funcionales con diseño moderno**
-- 💻 Experiencia con **máquinas virtuales en Oracle VirtualBox**
+
+- 🤝 Teamwork and collaboration  
+- 📈 Active participation in school and personal projects  
+- 🛠️ Focus on **functional projects with modern design**  
+- 💻 Experience with **virtual machines in Oracle VirtualBox**
 
 <p align="center" style="color:#00FFC6;">
-✨ ¡Gracias por visitar mi perfil! ✨
+✨ Thank you for visiting my profile! ✨
 </p>
